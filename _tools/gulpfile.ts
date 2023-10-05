@@ -105,7 +105,7 @@ for (let preset of presets) {
                             // add version number and map name to mission name
                             return content.replace(
                                 nameRegex,
-                                `$1CTI Panthor Liberation ${
+                                `$1CTI Liberation ${
                                     preset.mapDisplay || preset.map
                                 } ${version}$3`
                             );

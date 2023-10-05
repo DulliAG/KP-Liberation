@@ -46,10 +46,10 @@
 <Project name="Liberation">
     <Package name="Liberation">
         <Key ID="STR_MISSION_TITLE">
-            <Original>CTI Panthor Liberation v0.97.2</Original>
+            <Original>CTI Liberation v0.97.4</Original>
         </Key>
         <Key ID="STR_MISSION_VERSION">
-            <Original>v0.97.2</Original>
+            <Original>v0.97.4</Original>
         </Key>
         <Key ID="STR_Deploy_OnPoint">
             <Original>Deploy</Original>
